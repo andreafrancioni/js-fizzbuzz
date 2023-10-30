@@ -4,3 +4,28 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+body{
+    font-family: sans-serif;
+    background-color: #083B4C!important;
+}
+
+h1{
+    font-size: 5rem!important;
+}
+
+span {
+    width: 11rem;
+    height: 11rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 2rem;
+    margin-bottom: 1rem;
+}
+
+/* COLORS */
+.blue{background-color: #1389B2;}
+.acqua{background-color: #0CD6A1;}
+.yellow{background-color: #FFD166;}
+.red{background-color: #F0466F;}
